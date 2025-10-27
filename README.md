@@ -85,8 +85,13 @@ All features are concatenated for training in gradient-boosted regression framew
 
 ---
 
-**Maintained by Pradeep Kumar (IIT BHU, Data Science Student).**
+**Maintained by Pradeep Kumar (IIT BHU).**
 
 ---
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
+## 📧 Contact
+- If you have any questions or feedback, feel free to reach out via email: pradeep18kumar10@gmail.com  
+- LinkedIn: [Pradeep Kumar](https://www.linkedin.com/in/pradeep-kumar-bba090320/)
