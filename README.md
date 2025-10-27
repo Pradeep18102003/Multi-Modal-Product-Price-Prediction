@@ -5,13 +5,13 @@
 ---
 
 ## 📁 Project Structure
-
+```
 📂 Multi-Modal Product Price Prediction
 │── 📂 notebook
 │   └── multi-modal-product-price-prediction.ipynb
 │── README.md  # Project documentation
 
-
+```
 ---
 
 
